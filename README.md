@@ -1,4 +1,4 @@
-# School_District_Analysis
+# School District Analysis
 
 ## Overview 
 The school board has notified Maria and her supervisors about an academic dishonesty. With the help of Jupyter Notebook and Pandas we were able to analyze standardized test data for proper examination of fowl play. Analysis was conducted via multiple cross-examinations of dataframes showing school trends based on performance and spending and student population. 
